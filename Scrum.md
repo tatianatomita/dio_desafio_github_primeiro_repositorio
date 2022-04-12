@@ -20,10 +20,10 @@ O Scrum é um dos frameworks mais utilizados em projetos ageis.
 	É o produto minimo, desde que possua valor para o usuario, que podemos entregar ao cliente.
 
 ### Cerimônias:
-	 **Planning:** Planejamento da Sprint, onde o PO apresenta o Product Backlog, definindo "O que fazer?" e "Como fazer?".
-	 **Daily meeting:** Reunioes diarias de 15 minutos, realizadas pelo time de desenvolvimento, onde respondemos as seguintes perguntas:
-		 - O que foi feito ontem?
-		 - O que esta programado para hoje?
-		 - E se há algum impedimento?
-	 **Review:** Revisão da Sprint, onde o time de desenvolvimento apresenta ao PO o trabalho feito.
-	 **Retrospectiva:** basicamente quem participa é o time de desenvolvimento, onde todos prescisão ser transparentes em apontar os erros que a equipe teve e quais foram as lições aprendidas.
+ - **Planning:** Planejamento da Sprint, onde o PO apresenta o Product Backlog, definindo "O que fazer?" e "Como fazer?".
+ - **Daily meeting:** Reunioes diarias de 15 minutos, realizadas pelo time de desenvolvimento, onde respondemos as seguintes perguntas:
+ - O que foi feito ontem?
+ - O que esta programado para hoje?
+ - E se há algum impedimento?
+ - **Review:** Revisão da Sprint, onde o time de desenvolvimento apresenta ao PO o trabalho feito.
+ - **Retrospectiva:** basicamente quem participa é o time de desenvolvimento, onde todos prescisão ser transparentes em apontar os erros que a equipe teve e quais foram as lições aprendidas.
