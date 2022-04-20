@@ -5,4 +5,4 @@ Repositório criado para o Desafio de Projeto.
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
 
 ## Pasta Projetos
-Possui minhas primeiras paginas web.
+Possui as primeiras paginas web.
