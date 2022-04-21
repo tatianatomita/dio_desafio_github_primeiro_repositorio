@@ -1,0 +1,29 @@
+body{
+    font: 20px Arial, sans-serif;
+}
+.navbar {
+    background-color: hsl(313, 94%, 86%);
+}
+#logo1{
+    border-radius: 50%;
+}
+#logo2{
+    border-radius: 50%;
+}
+.quem-somos{
+    background-color: #aeeeee;
+    color: whitesmoke;
+    text-shadow: 1px 2px black;
+
+}
+.margin{
+    padding-bottom: 50px;
+    padding-top: 10px ;
+}
+.parceiros{
+    background-color: #8e9be6;
+}
+.bg-footer{
+    background-color: hsl(240, 1%, 39%);
+    color:white;
+}
